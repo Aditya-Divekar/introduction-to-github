@@ -6,7 +6,7 @@
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+## Step 1: Create a branch --
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
